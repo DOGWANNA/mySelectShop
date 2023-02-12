@@ -62,3 +62,4 @@ public class Product extends Timestamped{
     }
 
 }
+
